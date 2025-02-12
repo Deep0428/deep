@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-im creating a new file as hi.txt
-
-=======
-hi
->>>>>>> b752321c8e0451edc68aa64405070289b1ba8881
+hi im cretaing a new file and this is the final content.
